@@ -1,0 +1,16 @@
+﻿Build started 11/3/2014 7:27:32 PM.
+     1>Project "c:\Users\kathryn.servaites\documents\visual studio 2012\Projects\StacksAndQueueExamples\StacksAndQueueExamples\StacksAndQueueExamples.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt InventoryBin.cpp Source.cpp Stack.cpp
+         Stack.cpp
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\stacksandqueueexamples\stacksandqueueexamples\stack.cpp(19): error C2065: 'topNode' : undeclared identifier
+         Source.cpp
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\stacksandqueueexamples\stacksandqueueexamples\source.cpp(23): error C3861: 'showMenu': identifier not found
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\stacksandqueueexamples\stacksandqueueexamples\source.cpp(50): error C2064: term does not evaluate to a function taking 0 arguments
+         InventoryBin.cpp
+         Generating Code...
+     1>Done Building Project "c:\Users\kathryn.servaites\documents\visual studio 2012\Projects\StacksAndQueueExamples\StacksAndQueueExamples\StacksAndQueueExamples.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.81

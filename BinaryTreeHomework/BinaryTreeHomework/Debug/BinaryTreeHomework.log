@@ -1,0 +1,17 @@
+﻿Build started 12/7/2014 11:07:00 PM.
+     1>Project "c:\Users\Rebbecca\documents\visual studio 2013\Projects\BinaryTreeHomework\BinaryTreeHomework\BinaryTreeHomework.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt EmployeeTree.cpp Source.cpp
+         Source.cpp
+         EmployeeTree.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\rebbecca\documents\visual studio 2013\Projects\BinaryTreeHomework\Debug\BinaryTreeHomework.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\rebbecca\documents\visual studio 2013\Projects\BinaryTreeHomework\Debug\BinaryTreeHomework.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\rebbecca\documents\visual studio 2013\Projects\BinaryTreeHomework\Debug\BinaryTreeHomework.lib" /MACHINE:X86 Debug\Employee.obj
+         Debug\EmployeeTree.obj
+         Debug\Source.obj
+         BinaryTreeHomework.vcxproj -> c:\users\rebbecca\documents\visual studio 2013\Projects\BinaryTreeHomework\Debug\BinaryTreeHomework.exe
+     1>Done Building Project "c:\Users\Rebbecca\documents\visual studio 2013\Projects\BinaryTreeHomework\BinaryTreeHomework\BinaryTreeHomework.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.48

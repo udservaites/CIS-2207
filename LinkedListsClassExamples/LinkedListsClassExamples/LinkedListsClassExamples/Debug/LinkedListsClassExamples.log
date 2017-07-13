@@ -1,0 +1,83 @@
+﻿Build started 10/27/2014 8:12:01 PM.
+     1>Project "c:\Users\kathryn.servaites\documents\visual studio 2012\Projects\LinkedListsClassExamples\LinkedListsClassExamples\LinkedListsClassExamples.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Car.cpp CarLinkedList.cpp Source.cpp
+         Source.cpp
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(7): error C2146: syntax error : missing ';' before identifier 'make'
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(8): error C2146: syntax error : missing ';' before identifier 'model'
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(9): error C2146: syntax error : missing ';' before identifier 'licensePlate'
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(12): error C2061: syntax error : identifier 'string'
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(12): error C2535: 'Car::Car(void)' : member function already defined or declared
+                 c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(11) : see declaration of 'Car::Car'
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(15): error C2146: syntax error : missing ';' before identifier 'getMake'
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(15): warning C4183: 'getMake': missing return type; assumed to be a member function returning 'int'
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(16): error C2146: syntax error : missing ';' before identifier 'getModel'
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(16): warning C4183: 'getModel': missing return type; assumed to be a member function returning 'int'
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(15): error C2065: 'make' : undeclared identifier
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\source.cpp(11): error C2661: 'Car::Car' : no overloaded function takes 3 arguments
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\source.cpp(13): error C2661: 'Car::Car' : no overloaded function takes 3 arguments
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\source.cpp(15): error C2039: 'toString' : is not a member of 'Car'
+                 c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(4) : see declaration of 'Car'
+         CarLinkedList.cpp
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(7): error C2146: syntax error : missing ';' before identifier 'make'
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(8): error C2146: syntax error : missing ';' before identifier 'model'
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(9): error C2146: syntax error : missing ';' before identifier 'licensePlate'
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(12): error C2061: syntax error : identifier 'string'
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(12): error C2535: 'Car::Car(void)' : member function already defined or declared
+                 c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(11) : see declaration of 'Car::Car'
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(15): error C2146: syntax error : missing ';' before identifier 'getMake'
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(15): warning C4183: 'getMake': missing return type; assumed to be a member function returning 'int'
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(16): error C2146: syntax error : missing ';' before identifier 'getModel'
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(16): warning C4183: 'getModel': missing return type; assumed to be a member function returning 'int'
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(15): error C2065: 'make' : undeclared identifier
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\carlinkedlist.cpp(24): error C2039: 'toString' : is not a member of 'Car'
+                 c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(4) : see declaration of 'Car'
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\carlinkedlist.cpp(52): error C2784: 'bool std::operator <(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *)' : could not deduce template argument for 'const std::basic_string<_Elem,_Traits,_Alloc> &' from 'Car'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string(245) : see declaration of 'std::operator <'
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\carlinkedlist.cpp(52): error C2784: 'bool std::operator <(const _Elem *,const std::basic_string<_Elem,_Traits,_Alloc> &)' : could not deduce template argument for 'const _Elem *' from 'Car'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string(235) : see declaration of 'std::operator <'
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\carlinkedlist.cpp(52): error C2784: 'bool std::operator <(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &)' : could not deduce template argument for 'const std::basic_string<_Elem,_Traits,_Alloc> &' from 'Car'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string(225) : see declaration of 'std::operator <'
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\carlinkedlist.cpp(52): error C2784: 'bool std::operator <(const std::move_iterator<_RanIt> &,const std::move_iterator<_RanIt2> &)' : could not deduce template argument for 'const std::move_iterator<_RanIt> &' from 'Car'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\xutility(1983) : see declaration of 'std::operator <'
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\carlinkedlist.cpp(52): error C2784: 'bool std::operator <(const std::reverse_iterator<_RanIt> &,const std::reverse_iterator<_RanIt2> &)' : could not deduce template argument for 'const std::reverse_iterator<_RanIt> &' from 'Car'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\xutility(1259) : see declaration of 'std::operator <'
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\carlinkedlist.cpp(52): error C2784: 'bool std::operator <(const std::_Revranit<_RanIt,_Base> &,const std::_Revranit<_RanIt2,_Base2> &)' : could not deduce template argument for 'const std::_Revranit<_RanIt,_Base> &' from 'Car'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\xutility(1075) : see declaration of 'std::operator <'
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\carlinkedlist.cpp(52): error C2784: 'bool std::operator <(const std::pair<_Ty1,_Ty2> &,const std::pair<_Ty1,_Ty2> &)' : could not deduce template argument for 'const std::pair<_Ty1,_Ty2> &' from 'Car'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\utility(232) : see declaration of 'std::operator <'
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\carlinkedlist.cpp(52): error C2676: binary '<' : 'Car' does not define this operator or a conversion to a type acceptable to the predefined operator
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\carlinkedlist.cpp(52): fatal error C1903: unable to recover from previous error(s); stopping compilation
+         Car.cpp
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(7): error C2146: syntax error : missing ';' before identifier 'make'
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(8): error C2146: syntax error : missing ';' before identifier 'model'
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(9): error C2146: syntax error : missing ';' before identifier 'licensePlate'
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(12): error C2061: syntax error : identifier 'string'
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(12): error C2535: 'Car::Car(void)' : member function already defined or declared
+                 c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(11) : see declaration of 'Car::Car'
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(15): error C2146: syntax error : missing ';' before identifier 'getMake'
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(15): warning C4183: 'getMake': missing return type; assumed to be a member function returning 'int'
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(16): error C2146: syntax error : missing ';' before identifier 'getModel'
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(16): warning C4183: 'getModel': missing return type; assumed to be a member function returning 'int'
+     1>c:\users\kathryn.servaites\documents\visual studio 2012\projects\linkedlistsclassexamples\linkedlistsclassexamples\car.h(15): error C2065: 'make' : undeclared identifier
+         Generating Code...
+     1>Done Building Project "c:\Users\kathryn.servaites\documents\visual studio 2012\Projects\LinkedListsClassExamples\LinkedListsClassExamples\LinkedListsClassExamples.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.15

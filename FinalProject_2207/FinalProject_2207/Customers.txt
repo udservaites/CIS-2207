@@ -1,0 +1,24 @@
+00001
+Wilee Caytote
+123 E. Fifth St.
+Phynox
+AZ
+12345-1234
+00002
+Dave Wells
+444 W. Third St.
+Dayton
+OH
+45402
+00012
+Robert U. McKey
+4986 Boundary St.
+Jacksonville
+AZ
+12345
+00123
+Ruby B. Edwards
+4861 Sping Ave.
+Philadelphia
+PA
+19108
